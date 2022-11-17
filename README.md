@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Import dataset
+
 2.Assign x and y values
+
 3.Calculate Logistic sigmoid function and plot the graph
+
 4.Calculate the cos function
+
 5.Calculate x train and y train grad value
+
 6.Calculate and Plot decision boundry
+
 7.Calculate the probability value and predict the mean value
 ## Program:
 ```
