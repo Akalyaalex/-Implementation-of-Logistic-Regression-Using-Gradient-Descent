@@ -105,9 +105,13 @@ np.mean(pred(res.x,x)==y)
 ```
 
 ## Output:
+
 ![exp 5 1](https://user-images.githubusercontent.com/114275126/201045282-b411cc20-f57d-4525-96f0-e5409e5d014d.PNG)
+
 ![exp 5 2](https://user-images.githubusercontent.com/114275126/201045288-88a92cf5-ab18-48d7-9334-92cfe4cd0e1d.PNG)
+
 ![exp 5 3](https://user-images.githubusercontent.com/114275126/201045305-e724a536-4c38-4a49-9da6-ca6938f59488.PNG)
+
 ![exp 5 4](https://user-images.githubusercontent.com/114275126/201045328-7f449236-dbce-487e-99f0-de955b45558f.PNG)
 
 
